@@ -7,7 +7,7 @@ For reading the analog input of the joystick i used the ADS1115 ADC converter ic
 * Designed for the SuperGamePi from Adafruit or other RPI-Based GameBoy
 * Sample KEYS : up,down,left,right (digital-pad), start,select, rb,lb, X, Y, A, B
 * One Joystick input
-* GPIO for RasperryPI 3
+* GPIO for all RasperryPI models
 * using UINPUT for sending keystrokes
 
 # HARDWARE
