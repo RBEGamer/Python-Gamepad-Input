@@ -13,7 +13,7 @@ For reading the analog input of the joystick i used the ADS1115 ADC converter ic
 # HARDWARE
 * 10 pcb push buttons
 * jumperwires
-* ADS1115 (https://www.adafruit.com/product/1085)
+* ADS1115(-Breakoutboard)
 
 # SETUP HARDWARE
 * Connect all buttons to the GPIO (edit the right GPIO numbers)
