@@ -28,6 +28,8 @@ For reading the analog input of the joystick i used the ADS1115 ADC converter ic
 * [install pip `sudo apt-get install python3-pip`]
 * [Install the python3 uinput package `pip install python-uinput`]
 * Download the ADS1115 libary from Adafruit (https://github.com/adafruit/Adafruit_Python_ADS1x15)
+* Execute it with `sudo python gpio_js_driver.py`
+### OPTINAL SOFTWARE SETUP
 * Run /src/gpio-js_driver.py as sudo and/or add it as starup (rc.local other other)
-* Have FUN
+
 
