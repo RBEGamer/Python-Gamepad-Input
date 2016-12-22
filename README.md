@@ -3,6 +3,8 @@ This is a small pythonsnipped for the Adafruit SuperGamePI, to map RPI-GPIO swit
 This script maps 10 GPIO Switches and one (X,Y) analog joystick. 
 For reading the analog input of the joystick i used the ADS1115 ADC converter ic.
 
+## ADDED PiGRRL/2 SUPPORT
+
 # FEATURES
 * Designed for the SuperGamePi from Adafruit or other RPI-Based GameBoy
 * Sample KEYS : up,down,left,right (digital-pad), start,select, rb,lb, X, Y, A, B
